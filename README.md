@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nshoemake
+- 👀 I’m interested in ... making things a little better than I found them through code
+- 🌱 I’m currently learning ... // more soon
+- 💞️ I’m looking to collaborate on ... // more soon
+- 📫 How to reach me ... nshoemake.netlify.app => contact
