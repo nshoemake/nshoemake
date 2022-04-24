@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick Shoemake</h1>
+<h3 align="center">Software Engineer @ 100Devs</h3>
 <h3 align="center">Leaving things a little better than I found them, one line of code at a time!</h3>
 
 - 🔭 I’m currently working on [tbd](github.com/nshoemake/tbd)
