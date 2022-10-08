@@ -35,6 +35,6 @@ Having worked at two Fortune-500 technology companies (Xerox and Docomo NTT) has
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=niklausis&cover_image=false&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=niklausis&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=niklausis&cover_image=false&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](#)
 
 </div>
