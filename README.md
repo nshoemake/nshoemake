@@ -1,30 +1,40 @@
-<img src=https://ibb.co/hm9Q1ct>
+<img src="https://github.com/nshoemake/nshoemake/blob/main/github_banner.png?raw=true">
 
-<h1 align="center">Hey, I'm Nick Shoemake</h1>
+<div align="center">
+<a href="https://nshoemake.me"><img src="https://img.shields.io/badge/portfolio-white?style=for-the-badge&logo=react&logoColor=WHITE" alt="portfolio"></a>
+<a href="https://linkedin.com/in/nshoemake"><img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=LINKEDIN&logoColor=WHITE" alt="LINKEDIN"></a>
+<a href="https://twitter.com/nshoemake_"><img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter" alt="twitter"></a>
+<a href="https://angel.co/u/nshoemake"><img src="https://img.shields.io/badge/angellist-white?style=for-the-badge&logo=angellist&logoColor=grey" alt="angellist"></a>
+</div>
+
+
 <h3 align="center">Software Engineer @ 100Devs</h3>
 <h3 align="center">Tamuning, Guam, USA</h3>
 <h3 align="center">Leaving things a little better than I found them, one line of code at a time!</h3>
 
-- 🔭 I’m currently working on [tbd](github.com/nshoemake/tbd)
+Having worked at two Fortune-500 technology companies (Xerox and Docomo NTT) has instilled a wide-range of skills that I apply everyday as a software engineer. Technology has become a catalyst for personal and communital growth. Affecting positive change through teamwork, leadership, and innovation, has become the single greatest guiding principle of my life. 
 
-- 🌱 I’m currently learning **Vue.JS, React, Reactive Native,Node, MongoDB, PostgreSQL**
 
-- 👯 I’m looking to collaborate on [tbd](github.com/nshoemake/tbd)
-
-- 🤝 I’m looking for help with [tbd](github.com/nshoemake/tbd)
-
-- 👨‍💻 Check out my freelancing portfolio at [https://www.nshoemake.me](https://www.nshoemake.me)
-
-- 💬 Ask me about **fitness, culinary arts, electronic dance music, and code**
-
-- 📫 How to reach me **nick@nshoemake.me**
+- :hammer: I’m currently building a spaced-repetition tool with automatic-speech-recognition accessibility features. Feel free to reach out if you'd like to collaborate or learn more.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nshoemake_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nshoemake_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nshoemake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nshoemake" height="30" width="40" /></a>
-<a href="https://discord.gg/nshoemake#5032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nshoemake#5032" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+[![My Skills](https://skills.thijs.gg/icons?i=twitter)](https://twitter.com/nshoemake_)
+[![My Skills](https://skills.thijs.gg/icons?i=linkedin)](https://linkedin.com/in/nshoemake)
+[![My Skills](https://skills.thijs.gg/icons?i=discord)](https://discordapp.com/users/nshoemake#5032)
+
+<h3 align="left">Favorite Tech:</h3>
+
+[![My Skills](https://skills.thijs.gg/icons?i=css,express,git,graphql,heroku,html,js,mongodb,nextjs,nodejs,postgres,react,remix,tailwind,webpack)](#)
+
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nshoemake&show_icons=true&locale=en" alt="nshoemake" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nshoemake&" alt="nshoemake" />
+</div>
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=niklausis&cover_image=false&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=niklausis&redirect=true)
+
+</div>
