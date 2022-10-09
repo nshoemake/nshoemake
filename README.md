@@ -12,7 +12,7 @@
 <h3 align="center">Tamuning, Guam, USA</h3>
 <h3 align="center">Leaving things a little better than I found them, one line of code at a time!</h3>
 
-Having worked at two Fortune-500 technology companies (Xerox and Docomo NTT) has instilled a wide-range of skills that I apply everyday as a software engineer. Technology has become a catalyst for personal and communital growth. Affecting positive change through teamwork, leadership, and innovation, has become the single greatest guiding principle of my life. 
+Having worked at two Fortune-500 technology companies (Xerox and Docomo NTT) has instilled a wide-range of skills that I apply everyday as a software engineer. Technology has become a catalyst for personal and community growth. Affecting positive change through teamwork, leadership, and innovation, has become the single greatest guiding principle of my life. 
 
 
 - :hammer: I’m currently building a spaced-repetition tool with automatic-speech-recognition accessibility features. Feel free to reach out if you'd like to collaborate or learn more.
