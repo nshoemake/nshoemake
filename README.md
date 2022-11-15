@@ -28,7 +28,6 @@ Having worked at two Fortune-500 technology companies (Xerox and Docomo NTT) has
 [![My Skills](https://skills.thijs.gg/icons?i=css,express,git,graphql,heroku,html,js,mongodb,nextjs,nodejs,postgres,react,remix,tailwind,webpack)](#)
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nshoemake&show_icons=true&locale=en" alt="nshoemake" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nshoemake&" alt="nshoemake" />
 </div>
